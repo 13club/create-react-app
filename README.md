@@ -1,11 +1,3 @@
-创建项目流程参考这里 :简书[从0开始创建react项目](https://www.jianshu.com/p/3565de5e3f2f)
-
-## `项目描述`
-本着一颗学习的心，创建此项目，另外会在简书上同步开发学习的过程
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
@@ -69,3 +61,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+ ## 提供一个react-app 项目模板，内容自行搭建；供大家学习和开发；
+ ## Provide a react app project template, and build the content by yourself; For everyone to learn and develop;
+
+ ## 如果喜欢这个cli，欢迎打赏一杯咖啡
+ ## If you like this cli, you are welcome to enjoy a cup of coffee
+  * ![WeChat](http://13culb.com/zhibo/images/pay.jpg)

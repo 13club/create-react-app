@@ -9,9 +9,8 @@ import * as serviceWorker from './serviceWorker';
 const render = Component => {
   ReactDOM.render(
     // <Provider store={store}>
-
     // </Provider>, 
-    
+  
     <Component />,
     
     document.getElementById('root'));
